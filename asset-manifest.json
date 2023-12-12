@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nataly-proyecto/static/css/main.6794ce3a.css",
+    "main.js": "/nataly-proyecto/static/js/main.a4552326.js",
+    "static/media/fondo.jpg": "/nataly-proyecto/static/media/fondo.2fc8b8213ca7a97c4c89.jpg",
+    "static/media/foto.jpeg": "/nataly-proyecto/static/media/foto.f5969f01a3417b9f74d1.jpeg",
+    "index.html": "/nataly-proyecto/index.html",
+    "main.6794ce3a.css.map": "/nataly-proyecto/static/css/main.6794ce3a.css.map",
+    "main.a4552326.js.map": "/nataly-proyecto/static/js/main.a4552326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6794ce3a.css",
+    "static/js/main.a4552326.js"
+  ]
+}
